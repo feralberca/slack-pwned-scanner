@@ -4,7 +4,7 @@ This Slash command task will check if the account given by parameter was subject
 
 Using [Webtask.io](https://webtask.io/) as a platform and relaying on the [HaveIBeenPwned API](https://haveibeenpwned.com/API/v2), this tiny app will give you all the details about your account usage.
 
-##Slack integration steps
+### Slack integration steps
 * Create an application
 * Enable Slash command features
 * Create a new command and set the following parameters
@@ -14,4 +14,4 @@ Using [Webtask.io](https://webtask.io/) as a platform and relaying on the [HaveI
    * Hint.
 
 
-####Enjoy it!
+#### Enjoy it!
